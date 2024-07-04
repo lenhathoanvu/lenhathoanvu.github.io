@@ -1,8 +1,5 @@
 # <a href="https://lenhathoanvu.github.io/" target="_blank">My Portfolio Website</a>
 
-<<<<<<< HEAD
- <p align="justify">This website serves as an online portfolio to showcase my web presence, résumé, story, & featured projects.</p>
-=======
  <p align="justify">This website serves as an online portfolio to showcase my web presence, résumé, & featured projects.</p>
 >>>>>>> 7b6da18cae827b0e7714d49d56c37820fe1b04ca
 
